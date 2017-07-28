@@ -1,5 +1,5 @@
 # Problem-LinkedListCSharp
-C# Linked List problem for my current and future students to solve.
+C# Linked List problem for current and future students to solve.
 
 A linked list is a data structure consisting of a group of nodes which together represent a list. Under
 the simplest form, each node is composed of some data and a link to the next node in the list. The
