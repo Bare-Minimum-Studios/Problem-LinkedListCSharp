@@ -1,5 +1,5 @@
 ﻿
-namespace LinkedList
+namespace LinkedListLibrary
 {
     interface IList<T>
     {
