@@ -1,5 +1,7 @@
-# Problem-LinkedListCSharp
-C# Linked List problem for current and future students to solve.
+[![Build status](https://ci.appveyor.com/api/projects/status/t8s7lyvakl57uxcr?svg=true)](https://ci.appveyor.com/project/Kakarot/problem-linkedlistcsharp)
+
+## Problem-LinkedListCSharp
+#### C# Linked List programming problem template for current and future students to solve.
 
 A linked list is a data structure consisting of a group of nodes which together represent a list. Under
 the simplest form, each node is composed of some data and a link to the next node in the list. The
@@ -9,3 +11,4 @@ not be stored contiguously in memory.
 
 In this assignment, you will create a doubly linked list with head and tail pointers. The comments for
 each of the methods will tell you what needs to be done.
+
