@@ -5,4 +5,4 @@ before_build:
 build:
   verbosity: minimal
 test_script:
-- cmd: dotnet test C:\projects\problem-linkedlistcsharp\TestLinkedListLibrary\TestLinkedListLibrary.csproj
+- cmd: dotnet test C:\projects\problem-linkedlistcsharp-244et\TestLinkedListLibrary\TestLinkedListLibrary.csproj
